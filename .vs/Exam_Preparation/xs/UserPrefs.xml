@@ -1,0 +1,57 @@
+﻿<Properties StartupConfiguration="{2B7B4A1B-E695-4705-8B6D-A2F1A159E749}|Default">
+  <MonoDevelop.Ide.ItemProperties.01.Warriors__Quest FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.02.Array__Modifier FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.03.Numbers FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.03.Nikuldens__meals FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.01.Password__Reset FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.02.Boss__Rush FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.01.String__Manipulator__Group__1 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.03.Need__for__Speed__III FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.03.Messages__Manager FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.01.Secret__Chat FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.01.Activation__Keys FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.02.Destination__Mapper FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.01.Email__Validator FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exam_Preparation" expanded="True">
+            <Node name="01.Concert" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="02.Song_Encryption" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.02.Song__Encryption FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.02.Message__Encrypter FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.02.Emoji__Detector FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.01.World__Tour FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.Mirror__Words FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.01.Concert FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.03.Followers FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.01.SoftUni__Reception FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.02.String__Manipulator FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.01.Username FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.03.Hero__Recruitment FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.03.Battle__Manager FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.02.Fancy__Barcodes FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.03.Pirates FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.02.Password FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.02.Registration FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.02.Message__Decrypter FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.03.Heroes__of__Code__and__Logic__VII FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.03.Inbox__Manager FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.02.Message__Translator FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.01.Nikuldens__Charity FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.03.Plant__Discovery FirstBuild="True" />
+</Properties>
